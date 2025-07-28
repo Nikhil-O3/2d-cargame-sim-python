@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+venv/
+env/
+.pvenv/
+pymunk/
+lib/
+lib64/
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.egg-info/
